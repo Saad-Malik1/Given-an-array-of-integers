@@ -7,4 +7,4 @@
 - Add 5 points for every time you encounter 5 in the array.
 
 
-_ You can view code from [find_result](https://github.com/Saad-Malik1/Given-an-array-of-integers/blob/main/find_result)
+_ You can view code from [find_result](https://github.com/Saad-Malik1/Given-an-array-of-integers/blob/main/find_result.js)
